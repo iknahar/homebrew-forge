@@ -1,6 +1,6 @@
 # Forge Homebrew Tap
 
-Homebrew tap for [Forge](https://forge-toolkit.vercel.app/) — a native macOS menu-bar productivity toolkit (calendar, clipboard history, window snap, eye-care, screen tools, and more, all behind one icon).
+Homebrew tap for [Forge](https://forge-toolkit.vercel.app/) — a native macOS menu-bar productivity toolkit (calendar, clipboard history, window snap, eye-care, screen tools, per-app PIN lock, and more, all behind one icon).
 
 ## Install
 
